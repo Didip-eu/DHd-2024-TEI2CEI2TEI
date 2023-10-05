@@ -1,6 +1,8 @@
 # TEI2CEI2TEI
-This repository is a placeholder that collects and refers to DiDip's current work-in-progress endeavors to validate XML data and create transformations, fuelled by data inference and profiling. Approximates refer to the following graphic:
+This repository is a placeholder that collects and refers to DiDip's current work-in-progress endeavors to validate XML data and create transformations, fuelled by data inference and profiling. Approximates of inputs/outputs for this workflow refer to the parallelograms in the following graphic:
+
 ![alt text](https://raw.githubusercontent.com/Didip-eu/TEI2CEI2TEI/main/workflow.svg)
+
 
 Recent commits and changes to the data transformation are found in this [CEI2TEI fork](https://github.com/flamminger/CEI2TEI/tree/develop).
 workflow.xsl ≈ existing transformation process
