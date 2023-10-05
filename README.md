@@ -1,7 +1,7 @@
 # TEI2CEI2TEI
 This repository is a placeholder that collects and refers to DiDip's current work-in-progress endeavors to validate XML data and create transformations, fuelled by data inference and profiling. Approximates of inputs/outputs for this workflow refer to the parallelograms in the following graphic:
 
-![alt text](https://raw.githubusercontent.com/Didip-eu/TEI2CEI2TEI/main/workflow.svg)
+![workflow_graphic](https://raw.githubusercontent.com/Didip-eu/TEI2CEI2TEI/main/workflow-white-v2.svg)
 
 | Description                       | Approximate       | Provenance |
 |-----------------------------------|---------------------------------|-----------------|
